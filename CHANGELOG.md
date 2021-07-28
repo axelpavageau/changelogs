@@ -1,3 +1,17 @@
+# [0.4.0](https://github.com/axelpavageau/changelogs/compare/v0.3.0...v0.4.0) (2021-07-28)
+
+
+### Bug Fixes
+
+* fixing ([b56b27c](https://github.com/axelpavageau/changelogs/commit/b56b27c36b16605aedfd474062196648f4781a39))
+
+
+### Features
+
+* pokemooon ([94f2b35](https://github.com/axelpavageau/changelogs/commit/94f2b35810abf5444a448eac54c03851b7b66b0e))
+
+
+
 # [0.3.0](https://github.com/axelpavageau/changelogs/compare/v0.2.0...v0.3.0) (2021-07-28)
 
 
@@ -32,15 +46,6 @@
 ### Bug Fixes
 
 * stuff too ([ce29813](https://github.com/axelpavageau/changelogs/commit/ce2981378b8869717a19be8eff352c3b397877c7))
-
-
-
-# [0.1.0](https://github.com/axelpavageau/changelogs/compare/a7b10e7d02a0d2736a5fc43c8f25fb981d98969d...v0.1.0) (2021-07-28)
-
-
-### Features
-
-* adding stuff to the doc ([a7b10e7](https://github.com/axelpavageau/changelogs/commit/a7b10e7d02a0d2736a5fc43c8f25fb981d98969d))
 
 
 
