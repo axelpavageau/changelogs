@@ -1,3 +1,12 @@
+## [0.1.2](https://github.com/axelpavageau/changelogs/compare/v0.1.1...v0.1.2) (2021-07-28)
+
+
+### Bug Fixes
+
+* I did it again ([0a35024](https://github.com/axelpavageau/changelogs/commit/0a35024d9bf4580663293728c9176eb3c6a32749))
+
+
+
 ## [0.1.1](https://github.com/axelpavageau/changelogs/compare/v0.1.0...v0.1.1) (2021-07-28)
 
 
