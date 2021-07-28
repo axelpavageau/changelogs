@@ -1,3 +1,13 @@
+# [0.3.0](https://github.com/axelpavageau/changelogs/compare/v0.2.0...v0.3.0) (2021-07-28)
+
+
+### Features
+
+* adding something ([0ee3c9d](https://github.com/axelpavageau/changelogs/commit/0ee3c9d24fb46e5b344b527c93ffd10a56700c3a))
+* another feature in the same branch ([12dcbf4](https://github.com/axelpavageau/changelogs/commit/12dcbf46c3a93e107402fcc9127b80baa206bab2))
+
+
+
 # [0.2.0](https://github.com/axelpavageau/changelogs/compare/v0.1.2...v0.2.0) (2021-07-28)
 
 
