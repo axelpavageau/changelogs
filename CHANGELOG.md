@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/axelpavageau/changelogs/compare/v0.1.2...v0.2.0) (2021-07-28)
+
+
+### Features
+
+* adding code ([740e839](https://github.com/axelpavageau/changelogs/commit/740e839f5982a4df3eef761998f435eba943ae50))
+
+
+
 ## [0.1.2](https://github.com/axelpavageau/changelogs/compare/v0.1.1...v0.1.2) (2021-07-28)
 
 
